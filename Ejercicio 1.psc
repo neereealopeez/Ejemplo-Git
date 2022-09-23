@@ -1,4 +1,6 @@
 Algoritmo nombre
+Minerva
+Ángela
 Definir nom Como Caracter
 Definir edad Como Entero
 nom=''
