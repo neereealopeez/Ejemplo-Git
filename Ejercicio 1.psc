@@ -1,6 +1,7 @@
 Algoritmo nombre
 Minerva
 Ángela
+El fin de semana se acerca
 Definir nom Como Caracter
 Definir edad Como Entero
 nom=''
