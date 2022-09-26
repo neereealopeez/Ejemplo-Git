@@ -20,4 +20,5 @@ Escribir nom " eres menor de edad"
 Fin Si
 
 Escribir "Adios!"
-FinAlgoritmo
+FinAlgoritmo 
+Ejercicio para mañana
