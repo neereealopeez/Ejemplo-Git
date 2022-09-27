@@ -23,3 +23,4 @@ Escribir "Adios!"
 FinAlgoritmo 
 Ejercicio para mañana
 Clonar el repositorio y subir los cambios
+Ejercicio en casa
